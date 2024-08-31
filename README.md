@@ -1,7 +1,7 @@
 -   Buka terlebih dahulu link projek github yang akan di kloning pada browser anda
 -   Setelah terbuka, klik tombol hijau bertulisan "code" lalu copy link yang ada disitu
 -   Lalu buka terminal/commands prompt anda, lalu cari lokasi directory anda akan digunakan untuk menyimpan projek
--   lalu ketik git clone dan paste link yang dicopy pada tahap ke-2 tadi (contoh: git clone https://github.com/Kanero095/CameraFeature_Laravel11.git)
+-   lalu ketik git clone dan paste link yang dicopy pada tahap ke-2 tadi
 -   Tunggu proses kloning hingga selesai, namun pastikan koneksi internet anda bagus
 -   jika telah selesai, silahkan masuk ke folder projek lalu ketik "copy .env.example .env" lalu enter
 -   setelah itu ubah database pada file .env tersebut. pada bagian DB:CONNECTION ubah dari sqlite menjadi mysql dan hapus tanda hastag pada setiap line yang dibawahnya
