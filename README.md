@@ -11,8 +11,9 @@
 -   selanjutnya tinggal menjalankan program "php artisan serve"
 -   Selesai
 
-<u>My Media Social</u>
-Github Second : https://github.com/Kanero-zero
-Youtube : https://www.youtube.com/@kanerojuniar643
-Linkedin : https://www.linkedin.com/in/kanero-juniar-840a62273
-Instagram : https://instagram.com/kanero95?igship=OGQ5ZDc2ODk2ZA==
+My Media Social
+
+-   Github Second : https://github.com/Kanero-zero
+-   Youtube : https://www.youtube.com/@kanerojuniar643
+-   Linkedin : https://www.linkedin.com/in/kanero-juniar-840a62273
+-   Instagram : https://instagram.com/kanero95?igship=OGQ5ZDc2ODk2ZA==
